@@ -172,5 +172,14 @@
             android:textColor="@android:color/white"
             android:textStyle="bold" />
 
+        <Button
+            android:id="@+id/select_group"
+            style="?android:textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Select group"
+            android:textStyle="bold" />
+
     </LinearLayout>
 </android.support.design.widget.CoordinatorLayout>
